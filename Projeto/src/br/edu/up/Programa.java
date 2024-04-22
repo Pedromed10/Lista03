@@ -7,6 +7,7 @@ import br.edu.up.exercicios.Exercicio03;
 import br.edu.up.exercicios.Exercicio04;
 import br.edu.up.exercicios.Exercicio05;
 import br.edu.up.exercicios.Exercicio06;
+import br.edu.up.exercicios.Exercicio07;
 
 public class Programa {
     public static void main(String[] args) throws Exception {
@@ -26,7 +27,10 @@ public class Programa {
         //Exercicio05 exercicio05 = new Exercicio05();
         //exercicio05.Executar();
 
-        Exercicio06 exercicio06 = new Exercicio06();
-        exercicio06.Executar();
+        //Exercicio06 exercicio06 = new Exercicio06();
+        //exercicio06.Executar();
+
+        Exercicio07 exercicio07 = new Exercicio07();
+        exercicio07.Executar();
      }
 }
