@@ -11,4 +11,12 @@ public class PrecoCusto {
         double aumento = precoCusto * (percentualAumento / 100.0);
         return precoCusto + aumento;
     }
+
+    public double getPrecoCusto() {
+        return precoCusto;
+    }
+
+    public void setPrecoCusto(double precoCusto) {
+        this.precoCusto = precoCusto;
+    }
 }

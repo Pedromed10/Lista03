@@ -13,4 +13,8 @@ public class Loja {
 
         return prestacoes;
     }
+
+    public static int getNumeroPrestacoes() {
+        return NUMERO_PRESTACOES;
+    }
 }
