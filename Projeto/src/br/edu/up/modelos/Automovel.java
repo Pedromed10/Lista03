@@ -25,7 +25,7 @@ public class Automovel {
 
     public double calcularConsumoMedio() {
         if (combustivelGasto == 0) {
-            return 0;
+            return 0; 
         }
         return distanciaPercorrida / combustivelGasto;
     }

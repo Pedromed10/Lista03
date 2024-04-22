@@ -4,7 +4,7 @@ import br.edu.up.modelos.Automovel;
 import br.edu.up.Prompt;
 
 public class Exercicio02 {
-    public static void main(String[] args) {
+    public void Executar(){
 
         double distanciaPercorrida = Prompt.lerDecimal("Digite a distância total percorrida (em km): ");
         double combustivelGasto = Prompt.lerDecimal("Digite o total de combustível gasto (em litros): ");
