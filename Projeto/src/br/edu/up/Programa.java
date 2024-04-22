@@ -10,6 +10,7 @@ import br.edu.up.exercicios.Exercicio06;
 import br.edu.up.exercicios.Exercicio07;
 import br.edu.up.exercicios.Exercicio08;
 import br.edu.up.exercicios.Exercicio09;
+import br.edu.up.exercicios.Exercicio10;
 
 public class Programa {
     public static void main(String[] args) throws Exception {
@@ -38,7 +39,10 @@ public class Programa {
         //Exercicio08 exercicio08 = new Exercicio08();
         //exercicio08.Executar();
 
-        Exercicio09 exercicio09 = new Exercicio09();
-        exercicio09.Executar();
+        //Exercicio09 exercicio09 = new Exercicio09();
+        //exercicio09.Executar();
+
+        Exercicio10 exercicio10 = new Exercicio10();
+        exercicio10.Executar();
      }
 }
