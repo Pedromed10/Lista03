@@ -1,7 +1,7 @@
 package br.edu.up.exercicios;
 
-import br.edu.up.modelos.Conversao;
 import br.edu.up.Prompt;
+import br.edu.up.modelos.Conversao;
 
 public class Exercicio04 {
     public void Executar() {

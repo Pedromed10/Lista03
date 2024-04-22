@@ -1,7 +1,7 @@
 package br.edu.up.exercicios;
 
-import br.edu.up.modelos.Vendedor;
 import br.edu.up.Prompt;
+import br.edu.up.modelos.Vendedor;
 
 public class Exercicio03 {
 
