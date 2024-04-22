@@ -1,7 +1,7 @@
 package br.edu.up.exercicios;
 
-import br.edu.up.modelos.*;
-import br.edu.up.*;
+import br.edu.up.modelos.Aluno;
+import br.edu.up.Prompt;
 
 public class Exercicio01 {
     public void Executar() {
